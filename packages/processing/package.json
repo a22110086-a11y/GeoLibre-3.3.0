@@ -34,11 +34,11 @@
     "@turf/tin": "^7.4.0",
     "@turf/union": "^7.4.0",
     "@turf/voronoi": "^7.4.0",
-    "dggal": "^0.0.6",
+    "dggal": "^0.0.7",
     "fflate": "^0.8.3",
-    "geolibre-wasm": "^1.5.4",
+    "geolibre-wasm": "^1.7.1",
     "geotiff": "^3.0.5",
-    "onnxruntime-web": "1.30.0",
+    "onnxruntime-web": "1.31.1",
     "s2js": "^1.44.0"
   },
   "devDependencies": {
